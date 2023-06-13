@@ -20,3 +20,4 @@ function navigation(){
         menu_button.innerHTML = "Close"
     }
 }
+
