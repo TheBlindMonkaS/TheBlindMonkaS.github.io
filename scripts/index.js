@@ -7,7 +7,7 @@ function navigation(){
         nav.style.visibility = "hidden"
         menu_button.style.color = "black"
         menu_button.style.backgroundColor = "white"
-        menu_button.style.border = "4px solid black"
+        menu_button.style.border = "2.5px solid black"
         menu_button.innerHTML = "Menu"
         
     }
@@ -16,7 +16,7 @@ function navigation(){
         nav.style.visibility = "visible"
         menu_button.style.color = "white"
         menu_button.style.backgroundColor = "black"
-        menu_button.style.border = "4px solid white"
+        menu_button.style.border = "2.5px solid white"
         menu_button.innerHTML = "Close"
     }
 }

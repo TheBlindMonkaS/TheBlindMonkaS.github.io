@@ -28,7 +28,7 @@
 
 .inner_menu{
     /* border: 10px solid rgb(119, 0, 255); */
-    border: 10px solid rgb(216, 201, 250);
+    border: 5px solid rgb(216, 201, 250);
     border-radius: 25px;
     font-size: 50px;
     font-size:  calc(2vw + 2vh);

@@ -22,7 +22,7 @@ p {
   width: min(14vw, 14vh); 
   height: min(7vw, 7vh);
   border-radius: 25px;
-  border: 4px solid black;
+  border: 2.5px solid black;
   top: min(1vw, 1vh);
   right: min(1vw, 1vh);
   background-color: white;
