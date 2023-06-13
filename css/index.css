@@ -19,8 +19,8 @@ p {
 .menu_button{
   position: absolute;
   z-index: 100;
-  width: min(14vw, 14vh); 
-  height: min(7vw, 7vh);
+  width: min(16vw, 16vh); 
+  height: min(8vw, 8vh);
   border-radius: 25px;
   border: 2.5px solid black;
   top: min(1vw, 1vh);
