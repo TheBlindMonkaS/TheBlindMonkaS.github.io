@@ -4,6 +4,7 @@
     "description": "App For Testing Purposes.",
     "display": "fullscreen",
     "theme_color": "#A1BBF2",
+    "start_url": "/",
     "background_color": "#A1BBF2"
   }
   
