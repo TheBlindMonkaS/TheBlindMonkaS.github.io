@@ -20,11 +20,3 @@ function navigation(){
         menu_button.innerHTML = "Close"
     }
 }
-
-
-// on iOS Safari
-window.navigator.standalone
-// on Android Chrome
-window.matchMedia(
-  '(display-mode: standalone)'
-).matches
