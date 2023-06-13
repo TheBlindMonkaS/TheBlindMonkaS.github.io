@@ -2,7 +2,7 @@
     "name": "Sparkles And Bubbles App",
     "short_name": "Sparkles",
     "description": "App For Testing Purposes.",
-    "display": "fullscreen",
+    "display": "standalone",
     "theme_color": "#A1BBF2",
     "start_url": "/",
     "background_color": "#A1BBF2"
