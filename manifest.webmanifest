@@ -5,6 +5,13 @@
     "display": "standalone",
     "theme_color": "#A1BBF2",
     "start_url": "/",
-    "background_color": "#A1BBF2"
+    "background_color": "#A1BBF2",
+    "icons": [
+      {
+        "src": "images/sparkles.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      }
+    ]
   }
   
